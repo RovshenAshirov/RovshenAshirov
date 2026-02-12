@@ -3,7 +3,7 @@ from datetime import date
 start_date = date(2021, 11, 1)
 today = date.today()
 
-years = (today - start_date).days // 365.25
+years = int((today - start_date).days // 365.25)
 
 experience = f"+{years}"
 
