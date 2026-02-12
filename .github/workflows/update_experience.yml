@@ -1,0 +1,30 @@
+name: Update Experience
+
+on:
+  schedule:
+    - cron: "0 0 1 * *"   # har oy 1-kuni
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Run script
+        run: python update_experience.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Auto update experience" || echo "No changes"
+          git push

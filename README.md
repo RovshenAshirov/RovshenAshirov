@@ -6,6 +6,8 @@
   
   [![Telegram](https://img.shields.io/badge/Telegram-@Oliy__dasturchi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Oliy_dasturchi)
   [![Email](https://img.shields.io/badge/Email-rovshenashirov1619@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rovshenashirov1619@gmail.com)
+  
+  [![LinkedIn](https:///custom-icon-badges.demolab.com/badge/LinkedIn-Rovshen%20Ashirov-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/rovshenashirov/)
   [![GitHub](https://img.shields.io/badge/GitHub-RovshenAshirov-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RovshenAshirov)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=RovshenAshirov&color=6366F1&style=for-the-badge)
@@ -16,7 +18,7 @@
 
 ## 🚀 Men Haqimda
 
-4+ yillik tajribaga ega **Software Engineer** va **Backend Developer**. Katta miqyosdagi ilmiy va davlat loyihalarini ishlab chiqish va qo'llab-quvvatlashda keng tajribaga egaman. **UZINFOCOM** va **Perspective Team** kabi kompaniyalarda 10+ dan ortiq murakkab tizimlarni yaratganman.
+<!-- EXPERIENCE_START --> +0 <!-- EXPERIENCE_END --> yillik tajribaga ega <b>Software Engineer</b> va <b>Backend Developer</b>. Katta miqyosdagi ilmiy va davlat loyihalarini ishlab chiqish va qo'llab-quvvatlashda keng tajribaga egaman. <b>UZINFOCOM</b> va <b>Perspective Team</b> kabi kompaniyalarda 10+ dan ortiq murakkab tizimlarni yaratganman.
 
 🎯 **Hozirgi pozitsiya:** Backend Developer @ UZINFOCOM  
 📍 **Joylashuv:** To'rtko'l, Qoraqalpog'iston, O'zbekiston  
