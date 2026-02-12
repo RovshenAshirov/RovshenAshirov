@@ -18,7 +18,7 @@
 
 ## 🚀 Men Haqimda
 
-<!-- EXPERIENCE_START --> +0 <!-- EXPERIENCE_END --> yillik tajribaga ega <b>Software Engineer</b> va <b>Backend Developer</b>. Katta miqyosdagi ilmiy va davlat loyihalarini ishlab chiqish va qo'llab-quvvatlashda keng tajribaga egaman. <b>UZINFOCOM</b> va <b>Perspective Team</b> kabi kompaniyalarda 10+ dan ortiq murakkab tizimlarni yaratganman.
+<!-- EXPERIENCE_START -->+4<!-- EXPERIENCE_END --> yillik tajribaga ega <b>Software Engineer</b> va <b>Backend Developer</b>. Katta miqyosdagi ilmiy va davlat loyihalarini ishlab chiqish va qo'llab-quvvatlashda keng tajribaga egaman. <b>UZINFOCOM</b> va <b>Perspective Team</b> kabi kompaniyalarda 10+ dan ortiq murakkab tizimlarni yaratganman.
 
 🎯 **Hozirgi pozitsiya:** Backend Developer @ UZINFOCOM  
 📍 **Joylashuv:** To'rtko'l, Qoraqalpog'iston, O'zbekiston  
