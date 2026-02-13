@@ -1,4 +1,4 @@
-# 👋 Salom, Men Rovshen Ashirov
+# 👋 Hello, I'm Rovshen Ashirov
 
 <div align="center">
   
@@ -8,17 +8,17 @@
 
 ---
 
-## 🚀 Men Haqimda
+## 🚀 About Me
 
-<!-- EXPERIENCE_START --> +0 <!-- EXPERIENCE_END --> yillik tajribaga ega <b>Backend Software Engineer</b>. Katta miqyosdagi ilmiy va davlat loyihalarini ishlab chiqish va qo'llab-quvvatlashda keng tajribaga egaman. <b>UZINFOCOM</b> va <b>Perspective Team</b> kabi kompaniyalarda 10+ dan ortiq murakkab tizimlarni yaratganman.
+<!-- EXPERIENCE_START --> +0 <!-- EXPERIENCE_END --> years of experience as a <b>Backend Software Engineer</b>. I have extensive experience in developing and supporting large-scale scientific and government projects. I have created +10 complex systems at companies like <b>UZINFOCOM</b> and <b>Perspective Team</b>.
 
-🎯 **Hozirgi pozitsiya:** Backend Software Engineer at UZINFOCOM  
-📍 **Joylashuv:** To'rtko'l, Qoraqalpog'iston, O'zbekiston  
-🎓 **Ta'lim:** Toshkent Axborot Texnologiyalari Universiteti Urganch filiali (2019-2023)
+🎯 **Current Position:** Backend Software Engineer at UZINFOCOM  
+📍 **Location:** Turtkul, Karakalpakstan, Uzbekistan  
+🎓 **Education:** Tashkent University of Information Technologies Urgench Branch (2019-2023)
 
 ---
 
-## 🛠️ Texnik Ko'nikmalar
+## 🛠️ Technical Skills
 
 <div align="center">
 
@@ -68,7 +68,7 @@
 
 ---
 
-## 📊 GitHub Statistika
+## 📊 GitHub Statistics
 
 <div align="center">
   
@@ -82,55 +82,55 @@
 
 ---
 
-## 🏆 Muhim Loyihalar va Ta'siri
+## 🏆 Key Projects and Impact
 
 <div align="center">
 
-| Loyiha               | Texnologiya             | Foydalanuvchilar/Ta'sir   | Status        |
+| Project              | Technology              | Users/Impact              | Status        |
 |----------------------|-------------------------|---------------------------|---------------|
 | **UzTransGaz SCADA** | Django, DRF             | SCADA monitoring          | 🟢 Active     |
-| **EnergoNazorat**    | Django, DRF             | Davlat loyihasi           | 🟢 Active     |
-| **Plagiat.uz**       | Laravel, Django         | 7+ (5,375+ manbalar)      | 🟢 Active     |
-| **SLIB.uz**          | Yii2                    | 345 jurnal, 35,339 maqola | 🟢 Active     |
+| **EnergoNazorat**    | Django, DRF             | Government project        | 🟢 Active     |
+| **Plagiat.uz**       | Laravel, Django         | 7+ (5,375+ sources)       | 🟢 Active     |
+| **SLIB.uz**          | Yii2                    | 345 journals, 35,339 articles | 🟢 Active     |
 | **UzSCI**            | Yii2                    | Citation Index            | 🟢 Active     |
-| **ROI**              | Django, DRF             | 35,339+ identifikator     | 🟢 Active     |
-| **Anjumanlar**       | Laravel, Livewire, Nova | 1,580+, 3,690 anjuman     | 🟢 Active     |
-| **eTaqriz**          | Laravel, Filament       | 2,280 taqriz, 79 ekspert  | 🟢 Active     |
-| **ScienceGate**      | Django, DRF             | Olimlar platformasi       | 🟡 Restricted |
-| **ScienceID**        | Django, DRF             | 4,184+ foydalanuvchi      | 🟢 Active     |
+| **ROI**              | Django, DRF             | 35,339+ identifiers       | 🟢 Active     |
+| **Anjumanlar**       | Laravel, Livewire, Nova | 1,580+, 3,690 conferences | 🟢 Active     |
+| **eTaqriz**          | Laravel, Filament       | 2,280 reviews, 79 experts | 🟢 Active     |
+| **ScienceGate**      | Django, DRF             | Scientists platform       | 🟡 Restricted |
+| **ScienceID**        | Django, DRF             | 4,184+ users              | 🟢 Active     |
 
 </div>
 
 ---
 
-## 💡 Texnologik Yutuqlar
+## 💡 Technical Achievements
 
 ### 🔐 Authentication & Authorization
-- **OAuth2** protokolini Django DRF'da implementatsiya qilish
-- **OneID** tizimi bilan integratsiya
-- Boshqa platformalar uchun OAuth2 provider yaratish
-- Multi-level permission va role-based access control
+- Implementing **OAuth2** protocol in Django DRF
+- Integration with **OneID** system
+- Creating OAuth2 provider for other platforms
+- Multi-level permission and role-based access control
 
 ### 🏗️ Architecture & Design
-- **Microservices** arxitektura bo'yicha tajriba
-- RESTful API dizayni va implementatsiyasi
-- Legacy tizimlarni modernizatsiya qilish
-- Scalable va maintainable kod yozish
+- Experience with **Microservices** architecture
+- RESTful API design and implementation
+- Modernizing legacy systems
+- Writing scalable and maintainable code
 
 ### 📊 Data Processing
-- Katta hajmdagi ma'lumotlarni qayta ishlash
-- Real-time ma'lumotlar tahlili va monitoring
-- Excel bilan ishlash (import/export)
+- Processing large volumes of data
+- Real-time data analysis and monitoring
+- Working with Excel (import/export)
 
 ### 🔗 Integrations
-- Bir nechta platformalarni o'zaro integratsiya qilish
-- DOI va ZENODO kabi xalqaro tizimlar analogini yaratish
-- Email bildirishnomalar va notification tizimlari
-- File storage (MinIO) va secret management (Vault)
+- Integrating multiple platforms
+- Creating analogs of international systems like DOI and ZENODO
+- Email notifications and notification systems
+- File storage (MinIO) and secret management (Vault)
 
 ---
 
-## 📈 Faoliyat Grafi
+## 📈 Activity Graph
 
 <div align="center">
   
@@ -140,11 +140,11 @@
 
 ---
 
-## 📫 Bog'lanish
+## 📫 Contact
 
 <div align="center">
 
-**Professional aloqalar uchun:**
+**For professional inquiries:**
 
   [![Telegram](https://img.shields.io/badge/Telegram-@Oliy__dasturchi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Oliy_dasturchi)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-rovshenashirov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rovshenashirov/)
@@ -154,7 +154,7 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=RovshenAshirov&color=6366F1&style=for-the-badge)
  
-**Siz bilan ishlashdan mamnun bo'laman! 🚀**
+**I'd be happy to work with you! 🚀**
 
 </div>
 
