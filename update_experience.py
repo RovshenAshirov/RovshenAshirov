@@ -5,7 +5,7 @@ today = date.today()
 
 years = int((today - start_date).days // 365.25)
 
-experience = f"+{years}"
+experience = f"{years}+"
 
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()

@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-<!-- EXPERIENCE_START -->+4<!-- EXPERIENCE_END --> years of experience as a <b>Backend Software Engineer</b>. I have extensive experience in developing and supporting large-scale scientific and government projects. I have created +10 complex systems at companies like <b>UZINFOCOM</b> and <b>Perspective Team</b>.
+<!-- EXPERIENCE_START -->4+<!-- EXPERIENCE_END --> years of experience as a <b>Backend Software Engineer</b>. I have extensive experience in developing and supporting large-scale scientific and government projects. I have created 10+ complex systems at companies like <b>UZINFOCOM</b> and <b>Perspective Team</b>.
 
 🎯 **Current Position:** Backend Software Engineer at UZINFOCOM  
 📍 **Location:** Turtkul, Karakalpakstan, Uzbekistan  
@@ -86,19 +86,19 @@
 
 <div align="center">
 
-| Project              | Technology              | Users/Impact              | Status        |
-|----------------------|-------------------------|---------------------------|---------------|
-| **UzTransGaz SCADA** | Django, DRF             | SCADA monitoring          | 🟢 Active     |
-| **EnergoNazorat**    | Django, DRF             | Government project        | 🟢 Active     |
-| **Plagiat.uz**       | Laravel, Django         | 7+ (5,375+ sources)       | 🟢 Active     |
-| **SLIB.uz**          | Yii2                    | 345 journals, 35,339 articles | 🟢 Active     |
-| **UzSCI**            | Yii2                    | Citation Index            | 🟢 Active     |
-| **ROI**              | Django, DRF             | 35,339+ identifiers       | 🟢 Active     |
-| **Anjumanlar**       | Laravel, Livewire, Nova | 1,580+, 3,690 conferences | 🟢 Active     |
-| **eTaqriz**          | Laravel, Filament       | 2,280 reviews, 79 experts | 🟢 Active     |
-| **ScienceGate**      | Django, DRF             | Scientists platform       | 🟡 Restricted |
-| **ScienceID**        | Django, DRF             | 4,184+ users              | 🟢 Active     |
-
+| Project              | Technology              | Users/Impact                             | Status        |
+|----------------------|-------------------------|------------------------------------------|---------------|
+| **UzTransGaz SCADA** | Django, DRF             | SCADA monitoring                         | 🟢 Active     |
+| **EnergoNazorat**    | Django, DRF             | Government project                       | 🟢 Active     |
+| **Plagiat.uz**       | Laravel, Django         | 6331+ users                              | 🟢 Active     |
+| **SLIB.uz**          | Yii2                    | 345 journals, 35,339 articles            | 🟢 Active     |
+| **UzSCI**            | Yii2                    | Citation Index                           | 🟢 Active     |
+| **ROI**              | Django, DRF             | 35,339+ identifiers                      | 🟢 Active     |
+| **Anjumanlar**       | Laravel, Livewire, Nova | 1,900+ users/employee, 3,690 conferences | 🟢 Active     |
+| **eTaqriz**          | Laravel, Filament       | 2,280 reviews, 79 experts                | 🟢 Active     |
+| **ScienceGate**      | Django, DRF             | Scientists platform                      | 🟡 Restricted |
+| **ScienceID**        | Django, DRF             | 4,184+ users                             | 🟢 Active     |
+(As of 2026-02-13)
 </div>
 
 ---
