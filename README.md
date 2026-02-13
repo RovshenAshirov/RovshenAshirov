@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-<!-- EXPERIENCE_START --> +0 <!-- EXPERIENCE_END --> years of experience as a <b>Backend Software Engineer</b>. I have extensive experience in developing and supporting large-scale scientific and government projects. I have created +10 complex systems at companies like <b>UZINFOCOM</b> and <b>Perspective Team</b>.
+<!-- EXPERIENCE_START -->+4<!-- EXPERIENCE_END --> years of experience as a <b>Backend Software Engineer</b>. I have extensive experience in developing and supporting large-scale scientific and government projects. I have created +10 complex systems at companies like <b>UZINFOCOM</b> and <b>Perspective Team</b>.
 
 🎯 **Current Position:** Backend Software Engineer at UZINFOCOM  
 📍 **Location:** Turtkul, Karakalpakstan, Uzbekistan  
