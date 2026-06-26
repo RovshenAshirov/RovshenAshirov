@@ -88,8 +88,7 @@
 
 | Project              | Technology              | Users/Impact                             | Status        |
 |----------------------|-------------------------|------------------------------------------|---------------|
-| **UzTransGaz SCADA** | Django, DRF             | SCADA monitoring                         | 🟢 Active     |
-| **EnergoNazorat**    | Django, DRF             | Government project                       | 🟢 Active     |
+| **Energiya loyihalari** | Django, DRF          | Confidential                             | 🟢 Active     |
 | **Plagiat.uz**       | Laravel, Django         | 6331+ users                              | 🟢 Active     |
 | **SLIB.uz**          | Yii2                    | 345 journals, <br/>35,339 articles            | 🟢 Active     |
 | **UzSCI**            | Yii2                    | Citation Index                           | 🟢 Active     |
